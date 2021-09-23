@@ -1,0 +1,2 @@
+# project-Sentimental-Analysis-on-COVID19-Tweets
+So in this project, we are going to use a Dataset consisting of data related to the tweets from 24th of July 2020 to the 30th of August 2020 with covid19 hashtags. we are going to use python to apply sentimental analysis on the tweets to see people's reactions to the pandemic during the mentioned period. We are going to label the tweets as Positive, Negative, and neutral. After that we are going to visualize the result to see the people's reactions on Twitter.
